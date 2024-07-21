@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\CameraProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|d:\\prn212\\cameraproject\\cameraproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|solutionrelative:cameraproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|d:\\prn212\\cameraproject\\cameraproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|solutionrelative:cameraproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|d:\\prn212\\cameraproject\\cameraproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|solutionrelative:cameraproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|d:\\prn212\\cameraproject\\cameraproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|solutionrelative:cameraproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|d:\\prn212\\cameraproject\\cameraproject\\cameraproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22AB6C59-B98B-4E14-8B38-1039E8279ECC}|CameraProject\\CameraProject.csproj|solutionrelative:cameraproject\\cameraproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraProject",
+              "DocumentMoniker": "D:\\PRN212\\CameraProject\\CameraProject\\CameraProject.csproj",
+              "RelativeDocumentMoniker": "CameraProject\\CameraProject.csproj",
+              "ToolTip": "D:\\PRN212\\CameraProject\\CameraProject\\CameraProject.csproj",
+              "RelativeToolTip": "CameraProject\\CameraProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T12:58:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CameraProject\\Form1.Designer.cs",
+              "ToolTip": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.Designer.cs",
+              "RelativeToolTip": "CameraProject\\Form1.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:49:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\CameraProject\\CameraProject\\Program.cs",
+              "RelativeDocumentMoniker": "CameraProject\\Program.cs",
+              "ToolTip": "D:\\PRN212\\CameraProject\\CameraProject\\Program.cs",
+              "RelativeToolTip": "CameraProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:49:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CameraProject\\Form1.cs",
+              "ToolTip": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.cs",
+              "RelativeToolTip": "CameraProject\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:43:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CameraProject\\Form1.cs",
+              "ToolTip": "D:\\PRN212\\CameraProject\\CameraProject\\Form1.cs [Design]",
+              "RelativeToolTip": "CameraProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:34:58.806Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
